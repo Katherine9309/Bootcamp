@@ -1,0 +1,15 @@
+/Users/katherinecu/Projects/Task2/PointTwo/bin/Debug/net7.0/PointTwo
+/Users/katherinecu/Projects/Task2/PointTwo/bin/Debug/net7.0/PointTwo.deps.json
+/Users/katherinecu/Projects/Task2/PointTwo/bin/Debug/net7.0/PointTwo.runtimeconfig.json
+/Users/katherinecu/Projects/Task2/PointTwo/bin/Debug/net7.0/PointTwo.dll
+/Users/katherinecu/Projects/Task2/PointTwo/bin/Debug/net7.0/PointTwo.pdb
+/Users/katherinecu/Projects/Task2/PointTwo/obj/Debug/net7.0/PointTwo.csproj.AssemblyReference.cache
+/Users/katherinecu/Projects/Task2/PointTwo/obj/Debug/net7.0/PointTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katherinecu/Projects/Task2/PointTwo/obj/Debug/net7.0/PointTwo.AssemblyInfoInputs.cache
+/Users/katherinecu/Projects/Task2/PointTwo/obj/Debug/net7.0/PointTwo.AssemblyInfo.cs
+/Users/katherinecu/Projects/Task2/PointTwo/obj/Debug/net7.0/PointTwo.csproj.CoreCompileInputs.cache
+/Users/katherinecu/Projects/Task2/PointTwo/obj/Debug/net7.0/PointTwo.dll
+/Users/katherinecu/Projects/Task2/PointTwo/obj/Debug/net7.0/refint/PointTwo.dll
+/Users/katherinecu/Projects/Task2/PointTwo/obj/Debug/net7.0/PointTwo.pdb
+/Users/katherinecu/Projects/Task2/PointTwo/obj/Debug/net7.0/PointTwo.genruntimeconfig.cache
+/Users/katherinecu/Projects/Task2/PointTwo/obj/Debug/net7.0/ref/PointTwo.dll
