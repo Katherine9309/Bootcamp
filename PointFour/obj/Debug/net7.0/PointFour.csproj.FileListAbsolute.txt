@@ -1,0 +1,15 @@
+/Users/katherinecu/Projects/Task2/PointFour/bin/Debug/net7.0/PointFour
+/Users/katherinecu/Projects/Task2/PointFour/bin/Debug/net7.0/PointFour.deps.json
+/Users/katherinecu/Projects/Task2/PointFour/bin/Debug/net7.0/PointFour.runtimeconfig.json
+/Users/katherinecu/Projects/Task2/PointFour/bin/Debug/net7.0/PointFour.dll
+/Users/katherinecu/Projects/Task2/PointFour/bin/Debug/net7.0/PointFour.pdb
+/Users/katherinecu/Projects/Task2/PointFour/obj/Debug/net7.0/PointFour.csproj.AssemblyReference.cache
+/Users/katherinecu/Projects/Task2/PointFour/obj/Debug/net7.0/PointFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katherinecu/Projects/Task2/PointFour/obj/Debug/net7.0/PointFour.AssemblyInfoInputs.cache
+/Users/katherinecu/Projects/Task2/PointFour/obj/Debug/net7.0/PointFour.AssemblyInfo.cs
+/Users/katherinecu/Projects/Task2/PointFour/obj/Debug/net7.0/PointFour.csproj.CoreCompileInputs.cache
+/Users/katherinecu/Projects/Task2/PointFour/obj/Debug/net7.0/PointFour.dll
+/Users/katherinecu/Projects/Task2/PointFour/obj/Debug/net7.0/refint/PointFour.dll
+/Users/katherinecu/Projects/Task2/PointFour/obj/Debug/net7.0/PointFour.pdb
+/Users/katherinecu/Projects/Task2/PointFour/obj/Debug/net7.0/PointFour.genruntimeconfig.cache
+/Users/katherinecu/Projects/Task2/PointFour/obj/Debug/net7.0/ref/PointFour.dll
