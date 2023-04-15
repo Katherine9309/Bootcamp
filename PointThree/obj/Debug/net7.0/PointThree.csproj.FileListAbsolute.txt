@@ -1,0 +1,15 @@
+/Users/katherinecu/Projects/Task2/PointThree/obj/Debug/net7.0/PointThree.csproj.AssemblyReference.cache
+/Users/katherinecu/Projects/Task2/PointThree/obj/Debug/net7.0/PointThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katherinecu/Projects/Task2/PointThree/obj/Debug/net7.0/PointThree.AssemblyInfoInputs.cache
+/Users/katherinecu/Projects/Task2/PointThree/obj/Debug/net7.0/PointThree.AssemblyInfo.cs
+/Users/katherinecu/Projects/Task2/PointThree/obj/Debug/net7.0/PointThree.csproj.CoreCompileInputs.cache
+/Users/katherinecu/Projects/Task2/PointThree/bin/Debug/net7.0/PointThree
+/Users/katherinecu/Projects/Task2/PointThree/bin/Debug/net7.0/PointThree.deps.json
+/Users/katherinecu/Projects/Task2/PointThree/bin/Debug/net7.0/PointThree.runtimeconfig.json
+/Users/katherinecu/Projects/Task2/PointThree/bin/Debug/net7.0/PointThree.dll
+/Users/katherinecu/Projects/Task2/PointThree/bin/Debug/net7.0/PointThree.pdb
+/Users/katherinecu/Projects/Task2/PointThree/obj/Debug/net7.0/PointThree.dll
+/Users/katherinecu/Projects/Task2/PointThree/obj/Debug/net7.0/refint/PointThree.dll
+/Users/katherinecu/Projects/Task2/PointThree/obj/Debug/net7.0/PointThree.pdb
+/Users/katherinecu/Projects/Task2/PointThree/obj/Debug/net7.0/PointThree.genruntimeconfig.cache
+/Users/katherinecu/Projects/Task2/PointThree/obj/Debug/net7.0/ref/PointThree.dll
