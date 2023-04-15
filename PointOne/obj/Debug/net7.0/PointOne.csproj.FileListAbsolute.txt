@@ -1,0 +1,15 @@
+/Users/katherinecu/Projects/Task2/PointOne/bin/Debug/net7.0/PointOne
+/Users/katherinecu/Projects/Task2/PointOne/bin/Debug/net7.0/PointOne.deps.json
+/Users/katherinecu/Projects/Task2/PointOne/bin/Debug/net7.0/PointOne.runtimeconfig.json
+/Users/katherinecu/Projects/Task2/PointOne/bin/Debug/net7.0/PointOne.dll
+/Users/katherinecu/Projects/Task2/PointOne/bin/Debug/net7.0/PointOne.pdb
+/Users/katherinecu/Projects/Task2/PointOne/obj/Debug/net7.0/PointOne.csproj.AssemblyReference.cache
+/Users/katherinecu/Projects/Task2/PointOne/obj/Debug/net7.0/PointOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katherinecu/Projects/Task2/PointOne/obj/Debug/net7.0/PointOne.AssemblyInfoInputs.cache
+/Users/katherinecu/Projects/Task2/PointOne/obj/Debug/net7.0/PointOne.AssemblyInfo.cs
+/Users/katherinecu/Projects/Task2/PointOne/obj/Debug/net7.0/PointOne.csproj.CoreCompileInputs.cache
+/Users/katherinecu/Projects/Task2/PointOne/obj/Debug/net7.0/PointOne.dll
+/Users/katherinecu/Projects/Task2/PointOne/obj/Debug/net7.0/refint/PointOne.dll
+/Users/katherinecu/Projects/Task2/PointOne/obj/Debug/net7.0/PointOne.pdb
+/Users/katherinecu/Projects/Task2/PointOne/obj/Debug/net7.0/PointOne.genruntimeconfig.cache
+/Users/katherinecu/Projects/Task2/PointOne/obj/Debug/net7.0/ref/PointOne.dll
