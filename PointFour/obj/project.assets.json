@@ -8,25 +8,26 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/katherinecu/.nuget/packages/": {}
+    "C:\\Users\\qabog\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/katherinecu/Projects/Task2/PointFour/PointFour.csproj",
+      "projectUniqueName": "C:\\Users\\qabog\\OneDrive\\Documents\\Bootcamp\\Task_2\\Bootcamp\\PointFour\\PointFour.csproj",
       "projectName": "PointFour",
-      "projectPath": "/Users/katherinecu/Projects/Task2/PointFour/PointFour.csproj",
-      "packagesPath": "/Users/katherinecu/.nuget/packages/",
-      "outputPath": "/Users/katherinecu/Projects/Task2/PointFour/obj/",
+      "projectPath": "C:\\Users\\qabog\\OneDrive\\Documents\\Bootcamp\\Task_2\\Bootcamp\\PointFour\\PointFour.csproj",
+      "packagesPath": "C:\\Users\\qabog\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\qabog\\OneDrive\\Documents\\Bootcamp\\Task_2\\Bootcamp\\PointFour\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/katherinecu/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\qabog\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
